@@ -1,0 +1,263 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin5252@gmail.com",
+      "password": " 987654321"
+    }
+  ],
+  "users": [
+    {
+      "name": "Harry Modi",
+      "email": "user@gmail.com",
+      "password": "123456789",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ganesh Purohit",
+      "email": "ganeshpurohi2525@gmail.com",
+      "password": "9828850536",
+      "status": "block"
+    },
+    {
+      "name": "Pintu  Ghanchi",
+      "email": "pmodi8800@gmail.com",
+      "password": "7600941476",
+      "id": "1751471023041"
+    },
+    {
+      "id": "1751471180796",
+      "name": "Mukesh Kumar Patel",
+      "email": "mmodi8655@gmail.com",
+      "password": "9724697756",
+      "status": "unblock"
+    },
+    {
+      "id": "1766466718971",
+      "name": "Rinku Ghanchi",
+      "email": "rinku@gmail.com",
+      "password": "rinku",
+      "status": "unblock"
+    }
+  ],
+  "service": [
+    {
+      "id": "1",
+      "title": "Job Visa",
+      "image": "https://img.freepik.com/premium-photo/woman-holding-two-air-ticket-abroad-passport-near-airport_118454-14711.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_items_boosted&w=740",
+      "desc": "A Job Visa allows a person to live and work legally in another country. It is usually sponsored by an employer and requires a valid job offer."
+    },
+    {
+      "id": "2",
+      "title": "Business Visa",
+      "image": "https://www.fidelityoverseas.com/images/business-visa.jpg",
+      "desc": "A Business Visa allows individuals to travel to a foreign country for business-related activities such as meetings, conferences, or negotiations. It does not permit the holder to work or earn income in the host country."
+    },
+    {
+      "id": "3",
+      "title": "Student Visa",
+      "image": "https://img.freepik.com/premium-photo/unlock-your-future-overseas-education_1358420-7755.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_items_boosted&w=740",
+      "desc": "A Student Visa allows individuals to study in a foreign country at an approved educational institution. It typically requires proof of admission and financial support."
+    },
+    {
+      "id": "5",
+      "title": "Residence Visa",
+      "image": "https://img.freepik.com/free-photo/medium-shot-smiley-couple-with-documents_23-2149272139.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_items_boosted&w=740",
+      "desc": "A Residence Visa allows a foreign national to live in another country for an extended period. It may be granted for work, study, family reunification, or investment purposes."
+    },
+    {
+      "id": "6",
+      "title": "Tourist Visa",
+      "image": "https://img.freepik.com/premium-photo/woman-yellow-sweatshirt-is-sitting-red-shovel-word-world-bottom_1289061-2509.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "desc": "A Tourist Visa allows individuals to visit a foreign country for leisure, sightseeing, or short-term travel. It does not permit work or long-term stay."
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "image": "https://img.freepik.com/premium-photo/panoramic-view-taj-mahal-sunset-with-reflection-agra-india_255553-1217.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "logo": "https://img.freepik.com/premium-photo/india-country-flag-sphere-with-white-shadow-illustration_532963-1486.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "India"
+    },
+    {
+      "id": "2",
+      "image": "https://img.freepik.com/free-photo/saint-basil-s-cathedral-red-square-moscow-russia_181624-2329.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "logo": "https://img.freepik.com/premium-photo/russia-flag-white-background_187299-36996.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "Russia"
+    },
+    {
+      "id": "3",
+      "image": "https://img.freepik.com/free-photo/chinese-buddhist-pagoda-ruiguang-pagoda-suzhou-china_1127-3697.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "logo": "https://img.freepik.com/free-photo/brazil-flag-white-background_187299-36925.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "Brazil"
+    },
+    {
+      "id": "4",
+      "image": "https://img.freepik.com/free-photo/freedom-york-crown-lady-nobody_1232-3881.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "logo": "https://img.freepik.com/free-photo/flag-insignia-globe-iconic-art_1172-428.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "America"
+    }
+  ],
+  "training": [
+    {
+      "id": "1",
+      "image": "https://img.freepik.com/premium-photo/png-study-usa-education-photo-collage-transparent-background_53876-966145.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "IELTS Coaching",
+      "d1": "IELTS",
+      "d2": "Coaching",
+      "desc": "IELTS coaching helps improve English skills in Listening, Reading, Writing, and Speaking. It provides practice tests, tips, and personalized feedback to boost performance. It’s the best way to achieve a high band score for study, work, or immigration abroad."
+    },
+    {
+      "id": "2",
+      "image": "https://img.freepik.com/free-photo/girl-sitting-table-holding-pencil_23-2147657273.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "TOEFL Coaching",
+      "d1": "TOEFL",
+      "d2": "Coaching",
+      "desc": "TOEFL coaching prepares students for the TOEFL exam by improving Reading, Listening, Speaking, and Writing skills. It includes practice tests, strategies, and expert tips. Coaching helps achieve high scores for studying or working in English-speaking countries."
+    },
+    {
+      "id": "3",
+      "image": "https://img.freepik.com/free-photo/business-women-signature-document_1388-90.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "PTE Coaching",
+      "d1": "PTE",
+      "d2": "Coaching",
+      "desc": "PTE coaching helps students prepare for the Pearson Test of English by focusing on Speaking, Writing, Reading, and Listening skills. It offers practice tests, time management strategies, and expert guidance. Coaching boosts confidence and improves scores for study or migration abroad."
+    },
+    {
+      "id": "4",
+      "image": "https://img.freepik.com/free-photo/young-person-intership_23-2149315646.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "OCT Coaching",
+      "d1": "OCT",
+      "d2": "Coaching",
+      "desc": "OCT (Ontario Certified Teacher) coaching prepares candidates for teaching certification in Ontario, Canada. It covers teaching methodologies, educational laws, ethics, and classroom management. The coaching helps educators meet OCT standards and succeed in the certification process."
+    }
+  ],
+  "offer": [
+    {
+      "id": "1",
+      "logo": "https://img.freepik.com/free-vector/money-logo-design-vector_474888-2076.jpg?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid&w=740",
+      "title": "Cost-Effective",
+      "desc": "Cost-effective  providing good results without costing a lot of money. It refers to getting the best possible outcome for the least expense."
+    },
+    {
+      "id": "2",
+      "logo": "https://img.icons8.com/?size=100&id=11079&format=png",
+      "title": "Visa Assistance",
+      "desc": "Visa assistance is support with visa applications, including form filling, document preparation, and guidance through the approval process."
+    },
+    {
+      "id": "3",
+      "logo": "https://cdn-icons-png.freepik.com/256/13897/13897892.png?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid",
+      "title": "Faster Processing",
+      "desc": "Faster processing means completing tasks or procedures more quickly and efficiently, reducing wait times and speeding up results."
+    },
+    {
+      "id": "4",
+      "logo": "https://cdn-icons-png.freepik.com/256/18099/18099847.png?ga=GA1.1.1347431533.1742824091&semt=ais_hybrid",
+      "title": "Direct Interviews",
+      "desc": "Direct interviews are face-to-face or virtual meetings between candidates and employers without intermediaries, allow quicker and more personal hiring decisions."
+    }
+  ],
+  "worldwide": [
+    {
+      "id": "1",
+      "title": "Australia",
+      "image": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXVzdHJhbGlhJTIwYnVpbGRpbmd8ZW58MHx8MHx8fDA%3D",
+      "email": "sydbeyopera@gmail.com",
+      "phone": "+61 412-345-678",
+      "address": "Sydney Opera House,  GPO Box 4274, Bennelong Point, Sydney NSW 2000, Australia"
+    },
+    {
+      "id": "2",
+      "title": "India",
+      "image": "https://t3.ftcdn.net/jpg/06/75/85/66/240_F_675856600_Kxv3qB7IBaprJXYZ37JyhlCX7XMCOFjy.jpg",
+      "email": "tajmahal@gmail.com",
+      "phone": "+91 655-206-2650",
+      "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001"
+    },
+    {
+      "id": "3",
+      "title": "China",
+      "image": "https://t3.ftcdn.net/jpg/13/26/95/74/240_F_1326957492_R8QBUU1wu1YIzMgBynMDTYH26mi8xPNP.jpg",
+      "email": "thegreatwall@gmail.com",
+      "phone": "+86 101-234-5678",
+      "address": "No. 12, West Street, Xinying Township, Huairou District, Beijing 101406, P.R. CHINA"
+    },
+    {
+      "id": "4",
+      "title": "America",
+      "image": "https://t3.ftcdn.net/jpg/13/04/70/80/240_F_1304708055_5DKXeXZACvfmEiQ5Woizxv8NuY6O25bc.jpg",
+      "email": "whitehouse@gmail.com",
+      "phone": "+1 212-555-1234",
+      "address": "1600 Pennsylvania Ave NW, Washington, DC 20500, United States"
+    },
+    {
+      "id": "1751534715016",
+      "title": " French",
+      "image": "https://cdn.britannica.com/52/245552-050-3D7334F9/Eiffel-Tower-Paris.jpg?w=300",
+      "email": "eiffeltower@toureiffel.paris",
+      "phone": "+33 1 23 45 67 89",
+      "address": "Eiffel Tower\nChamp de Mars, 5 Avenue Anatole France\n75007 Paris, France"
+    },
+    {
+      "id": "1751535069802",
+      "title": "UAE",
+      "image": "https://cdn.britannica.com/37/135437-050-A12461CC/Burj-Khalifa-world-Sheikh-Khalifah-ibn-Zayid-2010.jpg?w=300",
+      "email": "bhujkhalifa.@etisalat.ae",
+      "phone": "+971 4 123 4567",
+      "address": "Burj Khalifa, 1 Sheikh Mohammed bin Rashid Boulevard\nDowntown Dubai, Dubai, UAE"
+    }
+  ],
+  "feedbak": [
+    {
+      "id": "1",
+      "name": "Pooja Sharma",
+      "designation": "Software Engineer",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": "★★★★★",
+      "desc": "Visiting Bali was one of the most unforgettable experiences of my life. From the breathtaking beaches and lush green rice terraces to the warm hospitality of the Balinese people — everything felt magical.The natural beauty of Ubud, the sunsets at Tanah Lot, and the vibrant energy of Seminyak left me speechless. The traditional temples and local dances added deep cultural value to the trip. I highly recommend Bali to anyone looking for peace, adventure, culture, and beauty all in one place. I can’t wait to return!"
+    },
+    {
+      "id": "2",
+      "name": "Manish Purohit",
+      "designation": "Data Scientist",
+      "image": "https://t4.ftcdn.net/jpg/07/92/37/17/240_F_792371799_SYRZRLqm9r1jK36rfF6I2CwA1VR4Ele0.jpg",
+      "rating": "★★★★★",
+      "desc": "Visiting the Sydney Opera House was a truly unforgettable experience. The architecture is breathtaking even more stunning in person than in photos. Nestled right on the harbor, the view is spectacular, especially during sunset with the Harbour Bridge in the background.The surrounding area is lively with cafes, street performers, and waterfront walkways. It’s a great spot for photos, relaxing by the water, and soaking in the vibrant energy of Sydney.Inside, the concert halls are elegant and acoustically perfect."
+    },
+    {
+      "id": "3",
+      "name": "Mukesh Kumar Patel",
+      "designation": "AI Engineer",
+      "image": "https://t3.ftcdn.net/jpg/02/43/58/76/240_F_243587666_DXAiHEZwwbQBDWQRmu2KtfP1qofmEmrH.jpg",
+      "rating": "★★★★★",
+      "desc": "Visiting The Great Wall of China was one of the most awe-inspiring moments of my life. Stretching across mountains and valleys, the Wall is a powerful reminder of ancient ingenuity, determination, and architectural brilliance.Climbing parts of the wall was challenging but incredibly rewarding. There are plenty of spots for amazing photos and quiet moments to reflect. The cable car ride and toboggan down added a fun twist to the adventure."
+    },
+    {
+      "id": "4",
+      "name": "Ravina Tiwari",
+      "designation": "Machine Learning Expert",
+      "image": "https://t4.ftcdn.net/jpg/07/57/61/23/240_F_757612374_09Q9dyxOKbynCiT3hMUyk3iEuoR1RgJy.jpg",
+      "rating": "★★★★★",
+      "desc": "Visiting the Taj Mahal was an unforgettable experience – truly deserving of its place among the Seven Wonders of the World. As soon as I saw it, I was mesmerized by its flawless symmetry, white marble glowing under the sunlight, and the peaceful reflection in the water channels.I recommend visiting early in the morning or at sunset when the changing light adds magic to the scene. The gardens are peaceful, and the atmosphere is calm, making it a perfect place to pause and reflect."
+    },
+    {
+      "id": "5",
+      "name": "Ravina Tiwari",
+      "designation": "Machine Learning Expert",
+      "image": "https://t4.ftcdn.net/jpg/07/57/61/23/240_F_757612374_09Q9dyxOKbynCiT3hMUyk3iEuoR1RgJy.jpg",
+      "rating": "★★★★★",
+      "desc": "Visiting the Taj Mahal was an unforgettable experience – truly deserving of its place among the Seven Wonders of the World. As soon as I saw it, I was mesmerized by its flawless symmetry, white marble glowing under the sunlight, and the peaceful reflection in the water channels.I recommend visiting early in the morning or at sunset when the changing light adds magic to the scene. The gardens are peaceful, and the atmosphere is calm, making it a perfect place to pause and reflect."
+    },
+    {
+      "id": "6",
+      "name": "Ravina Tiwari",
+      "designation": "Machine Learning Expert",
+      "image": "https://t4.ftcdn.net/jpg/07/57/61/23/240_F_757612374_09Q9dyxOKbynCiT3hMUyk3iEuoR1RgJy.jpg",
+      "rating": "★★★★★",
+      "desc": "Visiting the Taj Mahal was an unforgettable experience – truly deserving of its place among the Seven Wonders of the World. As soon as I saw it, I was mesmerized by its flawless symmetry, white marble glowing under the sunlight, and the peaceful reflection in the water channels.I recommend visiting early in the morning or at sunset when the changing light adds magic to the scene. The gardens are peaceful, and the atmosphere is calm, making it a perfect place to pause and reflect."
+    }
+  ]
+}
